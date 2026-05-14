@@ -1,4 +1,4 @@
-# Superpowers — Contributor Guidelines
+# Superpowers — Contributor Guidelines - 
 
 ## If You Are an AI Agent
 
